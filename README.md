@@ -1,6 +1,8 @@
 # ANMplayer
 Custom ANM file support for encoding and playing low-res animations from video files
 
+https://jhwarren.com/projects/NeoPixelGridPlayers/
+
 ## How to Use
 Admittedly this is a proof of concept and therefore in some shambles. You'll need both the Processing.org software and a Raspberry Pi with CircuitPython installed. 
 
